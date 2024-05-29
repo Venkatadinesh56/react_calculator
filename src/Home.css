@@ -1,0 +1,11 @@
+.cal{
+    background-color: gray;
+    border: solid;
+    float: right;
+    position: relative;
+    top:180px;
+    right: 35%;
+    border-radius: 7px;
+    
+    
+}

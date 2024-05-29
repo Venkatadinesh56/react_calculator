@@ -1,0 +1,9 @@
+.r1{
+
+  color: gray;
+
+}
+.r1:hover{
+  
+  text-shadow: 20px 20px #ff0000;  
+}
