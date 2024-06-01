@@ -3,9 +3,34 @@
     border: solid;
     float: right;
     position: relative;
-    top:180px;
-    right: 35%;
+    top:30px;
+    right: 38%;
     border-radius: 7px;
     
     
+}
+.button_style{
+    width:100%;
+ height:100%; 
+ border-radius:10px;
+ color:black;
+ font-size:xx-large;
+ onClicked{color: green;};
+
+}
+.button_style:hover{
+    color: blue;
+    transform: scale(0.8);
+    background-color:lawngreen;
+    
+}
+.k1{
+    background-color:lightblue;
+    font-size:xx-large;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsBXYcRqPwyPsbOYS-akuxxXUEhBwrkwQW1yZaqaaJcHsLZV6EgtyX7FXZ9Z2hKAzg0M&usqp=CAU");
+    width: 100%;
+    height: 780px;
+    position: relative;
+    top: 0px;
+
 }

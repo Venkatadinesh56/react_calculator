@@ -3,6 +3,7 @@ import './App.css';
 import K from './k';
 import Head from './header';
 import Home from './Home';
+import Cimage from './cimage';
 import {BrowserRouter,Route,Routes} from 'react-router-dom';
 function App() {
   return (
@@ -11,9 +12,10 @@ function App() {
       
      
         <Routes>
-          <Route path="/" index element={<Home />} />
+          <Route path="/" index element={<Head />} />
           <Route path="/k" element={<K />} />
-          <Route path="/header" element={<Head />} />
+          <Route path="/home" element={<Home />} />
+          <Route path='/cimage' element={<Cimage />}/>
         
         </Routes>
       

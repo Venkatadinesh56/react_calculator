@@ -1,0 +1,34 @@
+.cfstyle{
+    
+     text-align: center;
+     color:green;
+    
+    
+  
+}
+.ds{
+    font-size: x-large;
+    position: relative;
+    left: 30px;
+    
+    
+}
+.tf{
+    border-color:gray;
+    align-items: center;
+    position: relative;
+    left: 12px;
+    top:-20px;
+    border-radius: 10px;
+    width: 98%;
+    
+}
+.stf{
+    border-radius: 10px;
+    border: solid;
+    color: rgb(32, 41, 199);
+
+}
+.stf:hover{
+    transform: scale(0.9);
+}
