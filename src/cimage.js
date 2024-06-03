@@ -8,6 +8,7 @@ function Cimage(){
                 <a href="/" className='ds'>Home page</a>
                 <font style={{"font-size":"x-large","position":"relative","left":"30px"}}>/Images</font>
                 <hr></hr>
+                
                 </div>
 
 
