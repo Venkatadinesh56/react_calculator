@@ -14,7 +14,7 @@ import './header.css';
         <font class="fstyle" ><h1>About Calculator</h1></font>
       <hr></hr>
       <p>
-      &nbsp;&nbsp;&nbsp; An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
+      &nbsp;&nbsp;&nbsp;&nbsp; An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
       
           The first solid-state electronic calculator was created in the early 1960s. Pocket-sized devices became available in the 1970s, especially after the Intel 4004, the first microprocessor, was developed by Intel for the Japanese calculator company Busicom.
  </p>  <img style={{"border":"solid", "float":"left","height":"20%","width":"30%","border-radius":"10px"}} src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Casio_calculator_JS-20WK_in_201901_002.jpg/255px-Casio_calculator_JS-20WK_in_201901_002.jpg'></img>
@@ -24,9 +24,9 @@ Computer operating systems as far back as early Unix have included interactive c
         
         <img style={{"border":"solid","float":"right","width":"18%","border-radius":"10px"}} src="https://upload.wikimedia.org/wikipedia/commons/1/18/Casio_fx-991EX.png"></img>
         <p>
-      &nbsp;&nbsp;&nbsp;  In addition to general purpose calculators, there are those designed for specific markets. For example, there are scientific calculators, which include trigonometric and statistical calculations. Some calculators even have the ability to do computer algebra. Graphing calculators can be used to graph functions defined on the real line, or higher-dimensional Euclidean space. As of 2016, basic calculators cost little, but scientific and graphing models tend to cost more.[1]
+      &nbsp;&nbsp;&nbsp;&nbsp;  In addition to general purpose calculators, there are those designed for specific markets. For example, there are scientific calculators, which include trigonometric and statistical calculations. Some calculators even have the ability to do computer algebra. Graphing calculators can be used to graph functions defined on the real line, or higher-dimensional Euclidean space. As of 2016, basic calculators cost little, but scientific and graphing models tend to cost more.[1]
 <br></br>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 With the very wide availability of smartphones and the like, dedicated hardware calculators, while still widely used, are less common than they once were. In 1986, calculators still represented an estimated 41% of the world's general-purpose hardware capacity to compute information. By 2007, this had diminished to less than 0.05%.[2]
         </p>
         <button className='btstyle' onClick={ssk}>Calculator</button>&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ The most basic calculator is the four-function calculator, which can perform bas
 
 These are sometimes called pocket calculators or hand-held electronic calculators because they are small enough to fit in a shirt pocket. They are also the least expensive calculator, costing around $5 or less.
 <br></br>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Four-function calculators usually have a +, -, x and / sign to denote the operations and can produce decimal numbers. Some also have a % button, which is used to calculate percentages.
 The next type of calculator is the graphing calculator. The graphing calculator is similar to the scientific calculator in that it can perform many of the same operations.
 
