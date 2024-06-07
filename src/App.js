@@ -9,8 +9,6 @@ function App() {
   return (
     <BrowserRouter>
     <div>
-      
-     
         <Routes>
           <Route path="/" index element={<Head />} />
           <Route path="/k" element={<K />} />
