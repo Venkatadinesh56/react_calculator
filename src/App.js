@@ -14,6 +14,7 @@ function App() {
           <Route path="/k" element={<K />} />
           <Route path="/home" element={<Home />} />
           <Route path='/cimage' element={<Cimage />}/>
+  
         
         </Routes>
       
