@@ -10,6 +10,7 @@ function App() {
     <BrowserRouter>
     <div>
         <Routes>
+    
           <Route path="/" index element={<Head />} />
           <Route path="/k" element={<K />} />
           <Route path="/home" element={<Home />} />
