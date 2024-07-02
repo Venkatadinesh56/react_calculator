@@ -22,6 +22,7 @@ function Home() {
         setVal(val + e.key);
       }
     };
+     
   return (
     
     <div class="k1">
